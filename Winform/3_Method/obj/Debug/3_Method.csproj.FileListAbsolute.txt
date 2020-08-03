@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\bin\Debug\3_Method.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\bin\Debug\3_Method.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\bin\Debug\3_Method.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\obj\Debug\_3_Method.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\obj\Debug\_3_Method.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\obj\Debug\3_Method.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\obj\Debug\3_Method.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\obj\Debug\3_Method.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\3_Method\obj\Debug\3_Method.csprojResolveAssemblyReference.cache

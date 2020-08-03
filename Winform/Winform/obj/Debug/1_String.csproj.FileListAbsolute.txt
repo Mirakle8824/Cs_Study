@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\obj\Debug\1_String.csprojResolveAssemblyReference.cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\obj\Debug\Winform.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\obj\Debug\Winform.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\obj\Debug\1_String.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\bin\Debug\Winform.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\bin\Debug\Winform.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\bin\Debug\Winform.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\obj\Debug\Winform.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\Winform\obj\Debug\Winform.pdb

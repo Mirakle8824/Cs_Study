@@ -1,0 +1,8 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\bin\Debug\2_DataType_And_Overflow.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\bin\Debug\2_DataType_And_Overflow.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\bin\Debug\2_DataType_And_Overflow.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\obj\Debug\_2_DataType_And_Overflow.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\obj\Debug\_2_DataType_And_Overflow.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\obj\Debug\2_DataType_And_Overflow.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\obj\Debug\2_DataType_And_Overflow.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\2_DataType_And_Overflow\obj\Debug\2_DataType_And_Overflow.pdb
