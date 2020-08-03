@@ -1,1 +1,10 @@
 C:\Users\nargo\Desktop\Project\CS\Tutorials\Winform\5_Enum\bin\Debug\5_Enum.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\bin\Debug\5_Enum.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\bin\Debug\5_Enum.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\bin\Debug\5_Enum.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\obj\Debug\5_Enum.csprojResolveAssemblyReference.cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\obj\Debug\_5_Enum.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\obj\Debug\_5_Enum.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\obj\Debug\5_Enum.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\obj\Debug\5_Enum.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\5_Enum\obj\Debug\5_Enum.pdb
