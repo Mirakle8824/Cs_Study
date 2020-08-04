@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\bin\Debug\13_Class_Inheritance.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\bin\Debug\13_Class_Inheritance.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\bin\Debug\13_Class_Inheritance.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\obj\Debug\_13_Class_Inheritance.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\obj\Debug\_13_Class_Inheritance.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\obj\Debug\13_Class_Inheritance.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\obj\Debug\13_Class_Inheritance.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\obj\Debug\13_Class_Inheritance.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\13_Class_Inheritance\obj\Debug\13_Class_Inheritance.csprojResolveAssemblyReference.cache

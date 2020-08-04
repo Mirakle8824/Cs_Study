@@ -8,13 +8,10 @@ namespace _12_Class_Create
 {
     class CPlayer
     {
-        //public int iSun = 0;
-        //public int iMoon = 0;
-        //public int iStar = 0;
+        public CPlayer()
+        {
 
-        //public int iCardSum = 0;
-
-        //public int iCount = 0;
+        }
 
 
         public int cardsum(int iSun, int iMoon, int iStar)
