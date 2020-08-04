@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\bin\Debug\12_Class_Create.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\obj\Debug\12_Class_Create.csprojResolveAssemblyReference.cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\obj\Debug\_12_Class_Create.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\obj\Debug\12_Class_Create.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\obj\Debug\_12_Class_Create.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\bin\Debug\12_Class_Create.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\bin\Debug\12_Class_Create.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\obj\Debug\12_Class_Create.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\12_Class_Create\obj\Debug\12_Class_Create.pdb

@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\bin\Debug\6_Reference.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\obj\Debug\6_Reference.csprojResolveAssemblyReference.cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\obj\Debug\_5_Enum.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\obj\Debug\_6_Reference.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\obj\Debug\6_Reference.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\bin\Debug\6_Reference.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\bin\Debug\6_Reference.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\obj\Debug\6_Reference.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\6_Reference\obj\Debug\6_Reference.pdb

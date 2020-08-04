@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\bin\Debug\8_If_Switch.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\bin\Debug\8_If_Switch.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\bin\Debug\8_If_Switch.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\obj\Debug\8_If_Switch.csprojResolveAssemblyReference.cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\obj\Debug\_8_If_Switch.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\obj\Debug\_8_If_Switch.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\obj\Debug\8_If_Switch.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\obj\Debug\8_If_Switch.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\8_If_Switch\obj\Debug\8_If_Switch.pdb

@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\bin\Debug\10_While_DoWhile.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\bin\Debug\10_While_DoWhile.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\bin\Debug\10_While_DoWhile.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\obj\Debug\_10_While_DoWhile.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\obj\Debug\_10_While_DoWhile.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\obj\Debug\10_While_DoWhile.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\obj\Debug\10_While_DoWhile.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\obj\Debug\10_While_DoWhile.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\10_While_DoWhile\obj\Debug\10_While_DoWhile.csprojResolveAssemblyReference.cache

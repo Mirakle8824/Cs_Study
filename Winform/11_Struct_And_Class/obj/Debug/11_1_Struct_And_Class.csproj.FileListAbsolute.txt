@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\bin\Debug\11_1_Struct_And_Class.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\bin\Debug\11_1_Struct_And_Class.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\bin\Debug\11_1_Struct_And_Class.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\obj\Debug\_11_1_Struct_And_Class.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\obj\Debug\_11_1_Struct_And_Class.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\obj\Debug\11_1_Struct_And_Class.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\obj\Debug\11_1_Struct_And_Class.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\obj\Debug\11_1_Struct_And_Class.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\11_1_Struct_And_Class\obj\Debug\11_1_Struct_And_Class.csprojResolveAssemblyReference.cache

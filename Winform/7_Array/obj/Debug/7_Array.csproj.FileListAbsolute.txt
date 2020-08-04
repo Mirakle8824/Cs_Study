@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\bin\Debug\7_Array.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\bin\Debug\7_Array.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\bin\Debug\7_Array.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\obj\Debug\_7_Array.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\obj\Debug\_7_Array.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\obj\Debug\7_Array.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\obj\Debug\7_Array.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\obj\Debug\7_Array.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\7_Array\obj\Debug\7_Array.csprojResolveAssemblyReference.cache
