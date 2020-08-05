@@ -74,6 +74,7 @@
             this.btn_st2.TabIndex = 3;
             this.btn_st2.Text = "2단계 자전거";
             this.btn_st2.UseVisualStyleBackColor = true;
+            this.btn_st2.Click += new System.EventHandler(this.btn_st2_Click);
             // 
             // btn_st3
             // 
@@ -83,6 +84,7 @@
             this.btn_st3.TabIndex = 4;
             this.btn_st3.Text = "3단계 자동차";
             this.btn_st3.UseVisualStyleBackColor = true;
+            this.btn_st3.Click += new System.EventHandler(this.btn_st3_Click);
             // 
             // btn_left
             // 
@@ -92,6 +94,7 @@
             this.btn_left.TabIndex = 5;
             this.btn_left.Text = "<<-";
             this.btn_left.UseVisualStyleBackColor = true;
+            this.btn_left.Click += new System.EventHandler(this.btn_left_Click);
             // 
             // btn_right
             // 
@@ -101,6 +104,7 @@
             this.btn_right.TabIndex = 6;
             this.btn_right.Text = "->>";
             this.btn_right.UseVisualStyleBackColor = true;
+            this.btn_right.Click += new System.EventHandler(this.btn_right_Click);
             // 
             // Form1
             // 
@@ -116,6 +120,7 @@
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }

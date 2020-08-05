@@ -25,5 +25,33 @@ namespace _13_Class_Inheritance
         {
             return _Pen;
         }
+
+        public void fMove(int iMove)
+        {
+            fCircle1Move(iMove);
+            fSquare1Move(iMove);
+        }
+
+        /// <summary>
+        /// 바퀴1의 위치를 가져와서 X 위치값을 이동 시키고 다시 바퀴1에 위치 정보를 넣어줌
+        /// </summary>
+        /// <param name="iMove"></param>
+        protected void fCircle1Move(int iMove)
+        {
+            Point oPoint = _rtCircle1.Location;
+            oPoint.X = oPoint.X + iMove;
+            _rtCircle1.Location = oPoint;
+        }
+
+        /// <summary>
+        /// 몸통1의 위치를 가져와서 X 위치값을 이동 시키고 다시 바퀴1에 위치 정보를 넣어줌
+        /// </summary>
+        /// <param name="iMove"></param>
+        protected void fSquare1Move(int iMove)
+        {
+            Point oPoint = _rtSquare1.Location;
+            oPoint.X = oPoint.X + iMove;
+            _rtSquare1.Location = oPoint;
+        }
     }
 }

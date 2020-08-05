@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\bin\Debug\14_Override_And_Overload.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\obj\Debug\14_Override_And_Overload.csprojResolveAssemblyReference.cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\obj\Debug\_14_Override_And_Overload.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\obj\Debug\_14_Override_And_Overload.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\obj\Debug\14_Override_And_Overload.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\bin\Debug\14_Override_And_Overload.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\bin\Debug\14_Override_And_Overload.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\obj\Debug\14_Override_And_Overload.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\14_Override_And_Overload\obj\Debug\14_Override_And_Overload.pdb

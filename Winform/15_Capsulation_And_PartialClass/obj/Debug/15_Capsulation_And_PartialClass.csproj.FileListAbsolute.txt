@@ -1,0 +1,9 @@
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\bin\Debug\15_Capsulation_And_PartialClass.exe.config
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\bin\Debug\15_Capsulation_And_PartialClass.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\bin\Debug\15_Capsulation_And_PartialClass.pdb
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\obj\Debug\15_Capsulation_And_PartialClass.csprojResolveAssemblyReference.cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\obj\Debug\_15_Capsulation_And_PartialClass.Form1.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\obj\Debug\_15_Capsulation_And_PartialClass.Properties.Resources.resources
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\obj\Debug\15_Capsulation_And_PartialClass.csproj.GenerateResource.Cache
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\obj\Debug\15_Capsulation_And_PartialClass.exe
+C:\Users\nargo\Desktop\Project\CS\Tutorials\Cs_Study\Winform\15_Capsulation_And_PartialClass\obj\Debug\15_Capsulation_And_PartialClass.pdb
